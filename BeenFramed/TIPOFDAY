@@ -1,0 +1,15 @@
+Frames divide a browser window into several parts, each frame consists of an individual HTML document.
+You need to create each frame page for each frame in the main frame page. Also if you are in frame one and have a link and wish to open it in frame two, then you put target="two", i.e. in the <A HREF="" target="two">BlaBla</a>
+You can use frames to create a variety of layouts, such as a navigational aide.
+Be sure to rename your files and the targets, if needed. The target is the frame section and the file name is the name of html document that goes in that frame section.
+Some tags in the frameset are optional while others are not, same with the frame src tags.
+Search engines that us bots to go out and parse web pages do not handle frames well. However...
+You can use this to you advantage, provided you follow these rules, put links to your major pages between the noframes tags in the body section.
+Put all of you meta tags in the frame page. The best ones are the meta description tag, and the meta keywords tag. But use as many as you can.
+Make sure you read up on meta tags and follow the rules on how to use them so you will not be penalized.
+Do NOT use "Your browser does not support frames etc." between the noframe tags and body tags. This is a waste of resources.
+In the body section, of the frame page, use your key words (same as in the meta tag keywords) up top in the body section. These are never seen except by the search engine bots.
+When using key words (same as in the meta tag keywords) in the frame page place them in between <H1> and </H1> HTML tags, and again make sure you read up on this as you can be penalized for using them incorrectly.
+You can only copy one item at a time to the clipboard that is stored in memory in the computer. Copying to the clipboard deletes the last memory saved in the clipboard.
+After you click on a button to clipboard, then all you have to do is right click and select paste -- provided you are in text document.
+A ShortCut to the frame.html is put on your desktop, when you run setup. This is just a shortcut to the real Frame.html located in your "Program Files\BeenFramed" folder on your hard drive.
